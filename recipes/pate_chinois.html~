@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Pâté Chinois</title>
+	</head>
+
+	<body>
+		<h1>Pâté Chinois</h1>
+		<img src="../images/pate_chinois.webp" alt="Image of a Pâté Chinois" height=350>
+		<h2>Description</h2>
+		<p>This is the most traditional dish that every household eats in Quebec. As a kid, you would eat Pâté Chinois at least once a week, either at home or at the school’s cafeteria,. It is very similar to a Shepherd’s Pie, as it is divided in 3 layers of ingredients: meat, legumes and mashed potatoes. The literal translation of the name is something like <it>chinese pie</it>. You can search for the origin of the name on the internet, I’m not an history teacher.</p>
+		<h2>Ingredients</h2>
+		<h3>Mashed potatoes layer</h3>
+		<ul>
+			<li>1½ lb of potatoes or around 6 big one, peeled and diced</li>
+			<li>2 tbsp of butter</li>
+			<li>½ cup milk</li>
+			<li>1 tsp of  herbs de Provence or dried parsley</li>
+			<li>(optional) ½ cup of strong cheddar cheese, grated</li>
+			<li>Pinch of nutmeg</li>
+			<li>Paprika</li>
+		</ul>
+		<h3>Beef layer</h3>
+		<ul>
+			<li>1 tbsp of butter</li>
+			<li>1 lb of ground beef</li>
+			<li>1 onion, diced</li>
+			<li>1 tbsp of soya sauce</li>
+			<li>1 tbsp of herbs de Provence</li>
+			<li>1 tsp of Worcestershire sauce</li>
+		</ul>
+		<h3>Corn layer</h3>
+		<ul>
+			<li>1 small can (around 14oz) of whole kernel corn</li>
+			<li>1 small can (around 14oz) of cream style corn</li>
+		</ul>
+		<h2>Steps</h2>
+	</body>
+</html>
