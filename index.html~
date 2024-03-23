@@ -3,11 +3,13 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Odin Recipes</title>
+		<link rel="stylesheet" href="./style.css">
 	</head>
 	
 	<body>
 		<h1>Odin Recipes</h1>
-		<ul>
+		<h2 class="welcome">Welcome</h2>
+		<ul class="contents">
 			<li><a href="./recipes/assam_tea.html">Assam Tea</a></li>
 			<li><a href="./recipes/pate_chinois.html">Pâté Chinois</a></li>
 			<li><a href="./recipes/apple_strudel.html">Apple Strudel</a></li>

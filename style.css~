@@ -1,0 +1,60 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: Garamond, serif;
+	margin: 0 auto;
+	width: 600px;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: 900;
+	text-align: center;
+}
+
+.welcome {
+	text-align: center;
+}
+
+h1,
+h2,
+h3 {
+	color: yellow;
+	font-family: "Lucide Handwriting", "Brush Script MT", cursive;
+}
+
+.contents {
+	font-size: 26px;
+	font-weight: 600;
+	list-style-type: none;	
+	padding: 0px;
+}
+
+.contents a {
+	background-color: rgba(200,200,0,0.8);
+	color: darkblue;
+	display: block;
+	margin: 20px auto;
+	padding: 30px;
+	text-align: center;
+	text-decoration: none;
+	width: 200px;
+}
+
+.contents a:visited {
+	color: darkblue;
+	text-decoration: none;
+}
+
+.contents a:hover {
+	padding: 20px;
+	margin: 30px auto; 
+}
+
+.contents a.first:hover {
+	margin-top: 40px;
+}
+
+.contents a:active {
+	background-color: rgba(255,255,0,0.8);
+}
